@@ -1,2 +1,2 @@
 Node.js Activities
-Activities
+Activities and self education on Node.js
